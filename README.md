@@ -1,5 +1,6 @@
 # Interview-trainer-ai-agent-
-This is an ai based chatbot like a thing which is created during my internship at IBM SkillsBuild
+This is an ai based chatbot like a thing which is created during my internship at IBM SkillsBuild using the built in ai tools
+
 # Interview Trainer Agent – Capstone Project
 
 The Interview Trainer Agent is an AI-powered tool designed to help users prepare for job interviews by generating personalized question sets, answer strategies, and improvement tips. It is built using IBM Watsonx.ai and the Granite-3-3-8B foundation model. The tool tailors interview preparation based on the user’s job role and experience level.
